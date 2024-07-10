@@ -17,4 +17,8 @@ Rclone For Android
 
 
 ## Screenshot
+<center class="half">
+    <img src="[图片链接](https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot2.jpg)" width="200"/><img src="[图片链接](https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot3.jpg)" width="200"/>
+</center>
+
 ![screenshot1](https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot1.jpg)
