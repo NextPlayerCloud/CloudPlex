@@ -17,8 +17,13 @@ Rclone For Android
 
 
 ## Screenshot
-<center class="half">
-    <img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot2.jpg" width="200"/><img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot3.jpg" width="200"/>
-</center>
+<table class="half">
+    <tr>
+        <td>
+    <img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot2.jpg" width="200"/>
+            </td>
+        <td><img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot3.jpg" width="200"/></td>
+        </tr>
+</table>
 
 ![screenshot1](https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot1.jpg)
