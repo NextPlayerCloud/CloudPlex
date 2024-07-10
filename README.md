@@ -14,3 +14,6 @@ Rclone For Android
 9. Skip opening and ending
 10. Timing
 11. DLNA
+
+
+![screenshot1](https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot1.jpg)
