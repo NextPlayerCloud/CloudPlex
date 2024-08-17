@@ -4,7 +4,7 @@
 
 # R-Rclone
 
-Rclone For Android
+Rclone Alist For Android
 
 ## Add player
 1. Support EXO IJK System kernel
