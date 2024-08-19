@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### Based on https://github.com/newhinton/Round-Sync
+### Based on https://github.com/newhinton/Round-Sync and https://github.com/alist-org/alist
 
-# R-Rclone
+# CloudPlex
 
 Rclone Alist For Android
 
