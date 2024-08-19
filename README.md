@@ -28,6 +28,7 @@ Rclone Alist For Android
             </td>
         <td><img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot3.jpg" width="250"/></td>
         <td><img src="https://raw.githubusercontent.com/NextPlayerCloud/R-Rclone/main/screenshot/screenshot4.jpg" width="250"/></td>
+        <td><img src="https://raw.githubusercontent.com/NextPlayerCloud/CloudPlex/main/screenshot/86AD21589B2C6C0A491279F65A75D75C.jpg" width="250"/></td>
         </tr>
 </table>
 
