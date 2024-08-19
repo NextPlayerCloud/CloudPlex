@@ -20,6 +20,9 @@ Rclone Alist For Android
 11. DLNA
 
 
+## Rclone mount Alist
+  Enable Alist service-> Add cloud storage->Click the Add button on the homepage Select Webdav address http://127.0.0.1:5244/dav Default account admin Password 123456
+
 ## Screenshot
 <table class="half">
     <tr>
